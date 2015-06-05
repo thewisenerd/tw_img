@@ -3,7 +3,7 @@
   /* author: Vineeth Raj <contact.twn@openmailbox.org>
    * twitter (image) fetcher for forum signatures;
    * options:
-   *   ?id=<twitter widget id>
+   *   ?id=<twitter user id>
    *   ?text=<fallback text>
    *   ?font=<font size 1 - 5>
    *   ?align=<left|center|right>
